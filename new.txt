@@ -19,4 +19,6 @@ git command --> 1. git
 				16.git log
 				17.rm -rf mus.txt
 				18.git stash
-				19.
+
+19.git remote add origin <urlname>
+				20.git push origin master
