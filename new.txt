@@ -1,24 +1,23 @@
 Git Nd Git Hub :
 
-git command --> 1. git
-	            2.mkdir newpro
-	            3.ls
-				4.cd newpro
-				5.git init
-				5.ls -a
-				6.ls .git
-				7.touch mus.txt
-				8.git status
-				9.git add .
-				10.git add mus.txt
-				11.git commit -m "there is a change"
-				12.vl mus.txt
-				13.cat mus.txt
-				14.git restore --staged mus.txt
-				15.git commit -m "file changed succesfully"
-				16.git log
-				17.rm -rf mus.txt
-				18.git stash
-
-19.git remote add origin <urlname>
-				20.git push origin master
+git command --> 0. git
+	            1.mkdir newpro
+	            2.ls
+      	            3.cd newpro
+	            4.git init
+	            5.ls -a
+	            6.ls .git
+	            7.touch mus.txt
+	            8.git status
+	            9.git add .
+	            10.git add mus.txt
+	            11.git commit -m "there is a change"
+	            12.vl mus.txt
+	            13.cat mus.txt
+	            14.git restore --staged mus.txt
+	            15.git commit -m "file changed succesfully"
+	            16.git log
+	            17.rm -rf mus.txt
+	            18.git stash
+                                19.git remote add origin <urlname>
+	            20.git push origin master
